@@ -72,7 +72,8 @@ section {
 
 .navbar {
   position: fixed;
-  padding: 16px 0;
+  padding: 0px 0;
+  /* padding: 16px 0; */
   width: 100%;
   z-index: 1099;
   top: 0;
